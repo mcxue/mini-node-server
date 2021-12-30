@@ -1,8 +1,11 @@
 {
-  "name": "node-server",
+  "name": "mini-node-server",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
+  "repository": {
+    "url": "https://github.com/mcxue/mini-node-server"
+  },
   "devDependencies": {
     "@types/node": "^17.0.5"
   }
