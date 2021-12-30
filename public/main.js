@@ -1,0 +1,1 @@
+document.querySelector('.content').classList.add('blue')
